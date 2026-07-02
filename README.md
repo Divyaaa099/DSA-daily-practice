@@ -51,6 +51,25 @@ Small daily improvements lead to big results over time.
 
 ---
 
+# Day 2 Progress 🚀
+
+Completed Day 2 of my **30-Day DSA Challenge** by solving 5 LeetCode problems focused on arrays, two-pointer techniques, and in-place operations.
+
+### Problems Solved
+- LeetCode 26 – Remove Duplicates from Sorted Array
+- LeetCode 27 – Remove Element
+- LeetCode 88 – Merge Sorted Array
+- LeetCode 283 – Move Zeroes
+- LeetCode 167 – Two Sum II – Input Array Is Sorted
+
+### Key Learnings
+- Strengthened understanding of the Two Pointer technique.
+- Learned to solve array problems using in-place modifications.
+- Improved debugging and optimization skills.
+- Practiced writing cleaner and more efficient solutions.
+
+**Goal:** Stay consistent, improve problem-solving skills, and become a better Java developer—one day at a time. 💪
+
 ## 🤝 Connect With Me
 
 I am actively learning and open to feedback and collaboration.  
