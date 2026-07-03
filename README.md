@@ -69,6 +69,37 @@ Completed Day 2 of my **30-Day DSA Challenge** by solving 5 LeetCode problems fo
 - Practiced writing cleaner and more efficient solutions.
 
 **Goal:** Stay consistent, improve problem-solving skills, and become a better Java developer—one day at a time. 💪
+---
+
+## 📅 Day 3 – String & Two Pointers
+
+Successfully completed **3 LeetCode problems** focused on **String manipulation** and the **Two Pointers** technique.
+
+### ✅ Problems Solved
+
+1. Reverse String
+2. Reverse Vowels of a String
+3. Is Subsequence
+
+### 📚 Concepts Practiced
+
+* Two Pointers
+* String Manipulation
+* Character Swapping
+* Efficient String Traversal
+* Character Comparison
+
+### 🎯 What I Learned
+
+* How to reverse a string efficiently using the two-pointer approach.
+* How to reverse only the vowels while keeping other characters in their original positions.
+* How to determine whether one string is a subsequence of another using two pointers.
+* Improved my understanding of writing clean, optimized Java solutions.
+
+**Progress:** ✅ Day 3/30 Completed
+
+> Small improvements every day lead to big results. 🚀
+---
 
 ## 🤝 Connect With Me
 
