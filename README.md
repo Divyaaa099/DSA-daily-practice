@@ -97,8 +97,37 @@ Successfully completed **3 LeetCode problems** focused on **String manipulation*
 * Improved my understanding of writing clean, optimized Java solutions.
 
 **Progress:** ✅ Day 3/30 Completed
+---
 
-> Small improvements every day lead to big results. 🚀
+# Day 4 - DSA Challenge 🚀
+
+## Problems Solved
+
+1. **LeetCode 20** – Valid Parentheses *(Easy)*
+2. **LeetCode 9** – Palindrome Number *(Easy)*
+3. **LeetCode 383** – Ransom Note *(Easy)*
+
+## Concepts Practiced
+
+* Stack
+* Strings
+* Hashing
+* Character Frequency Array
+* Number Manipulation
+
+## What I Learned
+
+* Used a **Stack** to validate matching parentheses efficiently.
+* Solved a palindrome problem by reversing a number and comparing it with the original value.
+* Applied a **frequency array** to determine whether a ransom note can be constructed from the characters available in a magazine.
+* Improved my understanding of choosing appropriate data structures for different problem types.
+
+### Progress
+
+* ✅ Day 4 Completed
+* 📌 Problems Solved Today: **3**
+* 🎯 Focus: Building consistency and strengthening DSA fundamentals with Java.
+
 ---
 
 ## 🤝 Connect With Me
