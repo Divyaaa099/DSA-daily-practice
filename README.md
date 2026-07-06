@@ -20,7 +20,7 @@ This repository is dedicated to my daily LeetCode practice using **Java**, where
 Today I solved **5 LeetCode problems**:
 
 - 217 – Contains Duplicate  
-- 242 – Valid Anagram  
+- 242 – Valid Anagram  8
 - 125 – Valid Palindrome  
 - 1 – Two Sum  
 - 121 – Best Time to Buy and Sell Stock  
@@ -129,7 +129,7 @@ Successfully completed **3 LeetCode problems** focused on **String manipulation*
 * 🎯 Focus: Building consistency and strengthening DSA fundamentals with Java.
 
 ---
-
+🚀 Day 5 Progress
 ## 🤝 Connect With Me
 
 I am actively learning and open to feedback and collaboration.  
