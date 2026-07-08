@@ -130,6 +130,36 @@ Successfully completed **3 LeetCode problems** focused on **String manipulation*
 
 ---
 🚀 Day 5 Progress
+Successfully completed **4 LeetCode problems** focused on strengthening my understanding of **String manipulation**, **Arrays**, and handling different **edge cases**.
+
+### ✅ Problems Solved
+
+1. Length of Last Word
+2. Longest Common Prefix
+3. Find the Index of the First Occurrence in a String
+4. Plus One
+
+### 📚 Concepts Practiced
+
+* String Manipulation
+* Array Traversal
+* Prefix Matching
+* Character Comparison
+* Edge Case Handling
+* Time & Space Complexity Analysis
+
+### 🎯 What I Learned
+
+* How to find the length of the last word while handling trailing spaces.
+* Different approaches to finding the longest common prefix among multiple strings.
+* How to search for the first occurrence of a substring without relying on built-in methods.
+* How to handle carry propagation in arrays while solving the **Plus One** problem.
+* Improved my understanding of writing clean, optimized Java solutions and considering edge cases.
+
+**Progress:** ✅ **Day 5 / 30 Completed**
+
+> *Consistency beats perfection. Every solved problem is one step closer to becoming a better developer.* 🚀
+
 ## 🤝 Connect With Me
 
 I am actively learning and open to feedback and collaboration.  
