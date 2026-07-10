@@ -158,6 +158,9 @@ Successfully completed **4 LeetCode problems** focused on strengthening my under
 
 **Progress:** ✅ **Day 5 / 30 Completed**
 
+
+🚀 Day 6 Progress
+
 > *Consistency beats perfection. Every solved problem is one step closer to becoming a better developer.* 🚀
 
 ## 🤝 Connect With Me
