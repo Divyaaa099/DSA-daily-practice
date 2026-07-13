@@ -159,9 +159,43 @@ Successfully completed **4 LeetCode problems** focused on strengthening my under
 **Progress:** ✅ **Day 5 / 30 Completed**
 
 
-🚀 Day 6 Progress
+# Day 6 – LeetCode DSA Challenge
 
-> *Consistency beats perfection. Every solved problem is one step closer to becoming a better developer.* 🚀
+Welcome to **Day X** of my **30-Day LeetCode DSA Challenge**! 🚀
+
+Today, I solved three problems focused on **Binary Search** and **Searching Algorithms** while strengthening my understanding of time complexity, edge cases, and efficient problem-solving techniques.
+
+## 📚 Problems Solved
+
+1. **LeetCode 35 – Search Insert Position**
+
+   * Determined the correct insertion index of a target element in a sorted array.
+   * Explored both brute-force and binary search approaches.
+
+2. **LeetCode 69 – Sqrt(x)**
+
+   * Calculated the integer square root of a number without using built-in functions.
+   * Learned to handle integer overflow using `long`.
+
+3. **LeetCode 704 – Binary Search**
+
+   * Implemented the Binary Search algorithm on a sorted array.
+   * Practiced correctly updating search boundaries (`left` and `right`) to achieve an **O(log n)** time complexity.
+
+## 🎯 Key Learnings
+
+* Binary Search fundamentals
+* Pointer manipulation (`left`, `right`, and `mid`)
+* Handling edge cases
+* Integer overflow prevention
+* Time and Space Complexity Analysis
+
+### 💻 Language
+
+* Java
+
+Thank you for checking out my repository! Feel free to explore the solutions and follow my journey as I continue improving my Data Structures and Algorithms skills.
+
 
 ## 🤝 Connect With Me
 
