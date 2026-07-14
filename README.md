@@ -194,6 +194,34 @@ Today, I solved three problems focused on **Binary Search** and **Searching Algo
 
 * Java
 
+
+# DSA Daily Challenge – Day 7 🚀
+
+Welcome to **Day X** of my Data Structures and Algorithms (DSA) practice journey!
+
+## 📚 Problems Solved
+
+1. **LeetCode 3** – Longest Substring Without Repeating Characters
+2. **LeetCode 4** – Median of Two Sorted Arrays
+3. **LeetCode 5** – Longest Palindromic Substring
+4. **LeetCode 88** – Merge Sorted Array
+
+## 💡 Concepts Practiced
+
+* Two Pointers
+* HashSet
+* String Manipulation
+* Array Merging
+* Brute Force vs Optimized Approaches
+* Expand Around Center
+* Time & Space Complexity Analysis
+
+## 🎯 Goal
+
+I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
+
+⭐ Feel free to explore the solutions, suggest improvements, or share alternative approaches. Happy Coding!
+
 Thank you for checking out my repository! Feel free to explore the solutions and follow my journey as I continue improving my Data Structures and Algorithms skills.
 
 
