@@ -216,6 +216,28 @@ Welcome to **Day X** of my Data Structures and Algorithms (DSA) practice journey
 * Expand Around Center
 * Time & Space Complexity Analysis
 
+  # Day 8 - 30 Days of DSA Challenge 🚀
+
+Welcome to **Day 3** of my **30 Days of DSA Challenge**. Today's practice focused on strengthening my understanding of **Binary Search** and **String Manipulation** through LeetCode problems. Along with solving the questions, I spent time analyzing edge cases, debugging my approaches, and improving the efficiency of my solutions.
+
+## Problems Solved
+
+* **LeetCode 33:** Search in Rotated Sorted Array
+* **LeetCode 34:** Find First and Last Position of Element in Sorted Array
+* **LeetCode 8:** String to Integer (atoi)
+
+## Key Learning Outcomes
+
+* Applied Binary Search on rotated sorted arrays.
+* Learned to find the first and last occurrence of an element using optimized Binary Search.
+* Improved understanding of string parsing, sign handling, whitespace skipping, digit extraction, and integer overflow handling.
+* Enhanced debugging and problem-solving skills by working through multiple edge cases.
+
+This repository is part of my commitment to solving **5 LeetCode problems every day** and continuously improving my Data Structures & Algorithms skills through consistent practice.
+
+**Tech Stack:** Java ☕ | LeetCode | Data Structures & Algorithms
+
+
 ## 🎯 Goal
 
 I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
