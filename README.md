@@ -235,8 +235,11 @@ Welcome to **Day 3** of my **30 Days of DSA Challenge**. Today's practice focuse
 
 This repository is part of my commitment to solving **5 LeetCode problems every day** and continuously improving my Data Structures & Algorithms skills through consistent practice.
 
-**Tech Stack:** Java ☕ | LeetCode | Data Structures & Algorithms
+**Tech Stack:** Java ☕ | LeetCode | Data Structures & Algorithms 
 
+
+
+  # Day 9- 30 Days of DSA Challenge 🚀
 
 ## 🎯 Goal
 
