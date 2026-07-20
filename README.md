@@ -241,6 +241,22 @@ This repository is part of my commitment to solving **5 LeetCode problems every 
 
   # Day 9- 30 Days of DSA Challenge 🚀
 
+Today's DSA practice focused on mastering array manipulation and pointer-based algorithms.
+
+## Problems Solved
+- LeetCode 54 - Spiral Matrix
+- LeetCode 75 - Sort Colors
+- LeetCode 80 - Remove Duplicates from Sorted Array II
+
+## Concepts Learned
+- Spiral Matrix Traversal
+- Two Pointer Technique
+- Three Pointer (Dutch National Flag) Algorithm
+- In-place Array Manipulation
+- Time & Space Complexity Optimization
+
+Every problem solved is another step toward becoming a better problem solver and Java developer. 🚀
+
 ## 🎯 Goal
 
 I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
