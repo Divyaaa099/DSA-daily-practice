@@ -257,6 +257,24 @@ Today's DSA practice focused on mastering array manipulation and pointer-based a
 
 Every problem solved is another step toward becoming a better problem solver and Java developer. 🚀
 
+# Day 10 - LeetCode Solutions 🚀
+
+Today's DSA practice focused on arrays, matrix searching, and efficient data structures.
+
+## Problems Solved
+- LeetCode 268 - Missing Number
+- LeetCode 240 - Search a 2D Matrix II
+- LeetCode 260 - Single Number III
+
+## Concepts Covered
+- Matrix Search Optimization
+- HashSet
+- Bit Manipulation (XOR)
+- Optimized Searching Techniques
+- Time & Space Complexity Analysis
+
+Every problem solved strengthens my problem-solving skills and deepens my understanding of efficient algorithms.
+
 ## 🎯 Goal
 
 I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
