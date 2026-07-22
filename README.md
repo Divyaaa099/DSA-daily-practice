@@ -275,6 +275,20 @@ Today's DSA practice focused on arrays, matrix searching, and efficient data str
 
 Every problem solved strengthens my problem-solving skills and deepens my understanding of efficient algorithms.
 
+Day 11- LeetCode Practice
+Problems Solved
+36. Valid Sudoku
+Solved using HashSet by validating each row, column, and 3×3 sub-box to ensure no duplicate digits exist.
+78. Subsets
+Solved using the Backtracking technique to generate all possible subsets efficiently.
+Concepts Practiced
+HashSet
+Matrix Traversal
+Recursion
+Backtracking
+Decision Tree
+Time & Space Complexity Analysis
+
 ## 🎯 Goal
 
 I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
