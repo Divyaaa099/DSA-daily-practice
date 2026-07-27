@@ -289,6 +289,43 @@ Backtracking
 Decision Tree
 Time & Space Complexity Analysis
 
+# DSA Daily Challenge – Day 12
+
+## Solved Problems
+
+### ✅ LeetCode 15 – 3Sum
+
+* Solved using the **Sorting + Two Pointer** approach.
+* Learned how to efficiently find unique triplets whose sum equals zero.
+* Improved the solution from **O(n³)** (brute force) to **O(n²)** by eliminating unnecessary comparisons and handling duplicate triplets.
+
+### ✅ LeetCode 3731 – Find Missing Elements
+
+* Implemented an efficient solution to identify missing numbers within the given range.
+* Learned why the mathematical sum approach doesn't work when multiple elements are missing.
+* Used **HashSet** for fast lookups and accurate results.
+
+### ✅ LeetCode 3866 – First Unique Even Element
+
+* Solved using **HashMap** to count the frequency of each element.
+* Identified the first even element that appears exactly once.
+* Strengthened my understanding of frequency counting and choosing the right data structure for the problem.
+
+### Concepts Practiced
+
+* Arrays
+* Two Pointers
+* HashMap
+* HashSet
+* Sorting
+* Frequency Counting
+* Time Complexity Optimization
+
+**Language:** Java
+
+> Consistency is the key to mastering Data Structures & Algorithms. One problem at a time. 🚀
+
+
 ## 🎯 Goal
 
 I am solving LeetCode problems consistently to strengthen my DSA fundamentals, improve problem-solving skills, and prepare for technical interviews. Each solution is written in **Java** with a focus on writing clean, readable, and efficient code while understanding the logic behind every approach.
