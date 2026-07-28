@@ -323,6 +323,41 @@ Time & Space Complexity Analysis
 
 **Language:** Java
 
+
+# Day 13 - Matrix Problems | LeetCode | Java 🚀
+
+Today's focus was on **Matrix** problems, covering traversal, searching, transformations, and grid-based logic. These problems helped strengthen my understanding of row-column operations, pattern recognition, and optimized matrix algorithms.
+
+## Problems Solved
+- ✅ 53. Maximum Subarray
+- ✅ 152. Maximum Product Subarray
+- ✅ 48. Rotate Image
+- ✅ 73. Set Matrix Zeroes
+- ✅ 74. Search a 2D Matrix
+- ✅ 240. Search a 2D Matrix II
+- ✅ 1572. Matrix Diagonal Sum
+- ✅ 867. Transpose Matrix
+- ✅ 766. Toeplitz Matrix
+- ✅ 463. Island Perimeter
+
+## Key Concepts Covered
+- Matrix Traversal
+- Row & Column Manipulation
+- Matrix Rotation
+- Matrix Transpose
+- In-place Algorithms
+- Space Optimization
+- Pattern Recognition
+- Grid-Based Problems
+- Searching in Sorted Matrix
+- Boundary Handling
+
+📌 **Language:** Java  
+📅 **DSA Journey:** Day 13
+
+Every matrix problem improves logical thinking and strengthens problem-solving skills. Looking forward to solving more challenging problems tomorrow!
+
+#Java #DSA #LeetCode #Matrices #Algorithms #ProblemSolving #CodingJourney
 > Consistency is the key to mastering Data Structures & Algorithms. One problem at a time. 🚀
 
 
