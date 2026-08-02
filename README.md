@@ -359,6 +359,34 @@ Every matrix problem improves logical thinking and strengthens problem-solving s
 
 #Java #DSA #LeetCode #Matrices #Algorithms #ProblemSolving #CodingJourney
 > Consistency is the key to mastering Data Structures & Algorithms. One problem at a time. 🚀
+>
+> DSA Practice #Day 15
+Solved Problems
+
+✅ LeetCode 387 – First Unique Character in a String
+
+Implemented a solution to find the first non-repeating character.
+Explored both brute-force and optimized approaches while understanding the impact of time complexity.
+
+✅ LeetCode 496 – Next Greater Element I
+
+Solved using the brute-force approach with nested loops.
+Improved understanding of array traversal and searching for the next greater element.
+
+✅ LeetCode 560 – Subarray Sum Equals K
+
+Solved using the brute-force approach.
+Practiced generating all possible subarrays and maintaining a running sum for each starting index.
+📚 Key Learnings
+Strengthened problem-solving skills with arrays and strings.
+Improved understanding of nested loop patterns for subarray problems.
+Learned when brute-force solutions lead to Time Limit Exceeded (TLE) and why optimization is important.
+Continued building consistency through daily DSA practice.
+
+Language: Java ☕
+Status: ✅ 3 Problems Solved
+
+#Java #DSA #LeetCode #ProblemSolving #Algorithms #GitHub #CodingJourney
 
 
 ## 🎯 Goal
